@@ -1,0 +1,3 @@
+interface ProductEntity {
+    \\ Some fields
+}

@@ -1,0 +1,3 @@
+interface PaymentEntity {
+    \\ Some fields
+}
